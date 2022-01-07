@@ -1,0 +1,9 @@
+.popupBackdrop {
+  z-index: 10;
+  padding-left: 20px;
+  padding-right: 60px;
+}
+
+.popupContainer {
+  margin-top: -300px;
+}
